@@ -49,7 +49,7 @@ I’m a **goal-oriented programmer** with strong programming and front-end devel
 ### 💬 Let's Connect
 
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ritika-gupta7777/))  
-- 📫 Email: **your-email@example.com**  
+- 📫 Email: **ritikagupta0827@gmail.com**  
 - 🌐 Portfolio: [Your Portfolio]([https://your-portfolio-link.com](https://ritika277.github.io/portfoliome.github.io/))  
 
 ---
