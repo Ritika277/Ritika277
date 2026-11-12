@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I’m a **goal-oriented programmer** with strong programming and front-end development skills. I am passionate about building user-friendly, impactful applications and constantly enhancing my technical expertise. Currently, I am seeking an internship to gain hands-on experience and contribute to exciting projects while laying the foundation for a successful career in software engineering.
+I'm a passionate Software Developer with hands-on experience in building responsive, user-friendly web applications. I have a strong foundation in JavaScript, TypeScript, Angular, React.js, Node.js, .NET Core and front-end development. I enjoy solving problems, exploring new technologies, and developing efficient, scalable solutions. I'm always eager to learn, improve my skills, and contribute to meaningful projects while growing as a software engineer.
 
 ---
 
@@ -18,6 +18,7 @@ I’m a **goal-oriented programmer** with strong programming and front-end devel
 - ⚛️ ReactJS
 - 🅰️ Angular
 - 🌍 Node.js
+- 💜 .NET (C#)
 - 🌐 WordPress
 
 #### **Tools**
@@ -25,6 +26,7 @@ I’m a **goal-oriented programmer** with strong programming and front-end devel
 - 🔗 Git & GitHub
 - 🎨 Figma
 - 🛠️ Chrome DevTools
+- 🚀 Postman
 
 ---
 
