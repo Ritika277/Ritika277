@@ -52,7 +52,7 @@ I'm a passionate Software Developer with hands-on experience in building respons
 
 - 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ritika-gupta7777/))  
 - 📫 Email: **ritikagupta0827@gmail.com**  
-- 🌐 Portfolio: [Your Portfolio]([https://your-portfolio-link.com](https://ritika277.github.io/portfoliome.github.io/))  
+- 🌐 Portfolio: https://ritika277.github.io/ritika-portfolio/
 
 ---
 
